@@ -74,7 +74,7 @@ npm run dev
 
 ---
 
-### ⚡ Bonus Features (if implemented)
+### ⚡ Bonus Features
 
 * Real-time updates using Socket.io
 * Drag-and-drop task management
